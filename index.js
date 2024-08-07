@@ -1,3 +1,5 @@
+const { age, toy } = require("./multi-level-restu");
+
 var numbers = [45, 68, 78, 56, 89, 98]
 
 //  1. get element value by index
@@ -14,4 +16,5 @@ numbers[3] = 55;
 
 // 3.find index of an element
 var positionIndex = numbers.indexOf(89)
-console.log(positionIndex);
+console.log(positionIndex);// choto der jonno free food and toy
+
